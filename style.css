@@ -276,7 +276,7 @@ body{
     text-align: center;
     position: fixed;
     top: 0;
-    font-size: larger;
+    font-size: 3em;
 }
 
 @keyframes open-flower {
